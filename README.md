@@ -17,7 +17,7 @@ The framework consists of four main components:
 The overall framework is illustrated below.
 
 <!-- Replace this placeholder with your framework figure -->
-<!-- ![Traffic-Diff Architecture](figures/framework.png) -->
+<!-- ![Traffic-Diff Architecture](overview.png) -->
 
 ### Main Components
 
