@@ -34,9 +34,9 @@ Traffic-Diff/
 ├── build_dataset.py   # PCAP processing and dataset construction
 ├── model.py           # Traffic-Diff model architecture
 ├── train.py           # Pretraining, fine-tuning, and evaluation
-├── README.md          # Project documentation
-├── Denoise/            # Raw PCAP dataset (user-provided)
-└── Denoise-data/       # Processed dataset (generated)
+└──  README.md          # Project documentation
+Denoise/               # Raw PCAP dataset (user-provided)
+Denoise-data/          # Processed dataset (generated)
 ```
 
 ## Requirements
